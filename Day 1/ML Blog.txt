@@ -1,0 +1,44 @@
+Monday, June 1, 2020
+
+                                                                                                                            MACHINE LEARNING FOR GRANNY AND YOU PEOPLE
+
+“Machine Learning”. Now that’s a word that packs a punch! Machine learning is hot stuff these days! And why won’t it be? Even my Dear Granny has requested me numerous times about this Machine Learning stuff. It’s the recent “Buzzword”. Almost every “enticing” new development in the field of Computer Science and Software Development in general has something related to machine learning behind the veils. Microsoft’s Cortana – Machine Learning. Object and Face Recognition – Machine Learning and Computer Vision. Advanced UX improvement programs – Machine Learning.
+
+So it is natural, that anyone like my Dear Granny here is intrigued by Machine Learning.
+So like I explained it my grandmother, the same goes for you people. Primarily Machine Learning (ML) refers to systems that can learn by themselves. Systems that get smarter and smarter over time without human intervention. It consists of the more advanced techniques and models that enable computers to figure things out from the data and deliver AI applications. ML is the science of getting computers to act without being explicitly programmed.
+
+Day to day occurrence of ML:
+There are many techniques and approaches to ML. One of those approaches is artificial neural networks (ANN), sometimes just called neural networks. A good example of this is Amazon’s recommendation engine. Amazon uses artificial neural networks to generate recommendations for its customers. Amazon suggests products by showing you “customers who viewed this item also viewed” and “customers who bought this item also bought”. Amazon assimilates data from all its users browsing experiences and uses that information to make effective product recommendations.
+
+ Arguably the popularity milestone with public awareness was AlphaGo artificial intelligence program that ended humanity’s 2,500 years of supremacy in May 2017 at the ancient board game GO using a machine learning algorithm called “reinforcement learning”. Then these kinds of AI news become part of our daily digests with self-driving cars, Alexa/Siri like digital assistants frenzy, real time face recognition at airports, human genome projects, Amazon/Netflix algorithms, AI composers/artists, hand writing recognition, Email marketing algorithms and the list can go on and on.
+
+TYPES OF MACHINE LEARNING :
+Supervised:
+Supervised machine learning comprises predicting and sorting through data based on past inputs. For example, email software like Gmail and Yahoo filter spam emails via machine learning algorithms.
+
+Unsupervised:
+Facebook is an excellent example of unsupervised machine learning. The ML frameworks of the social platform detect the hidden patterns and recognize facial features in pictures and your friend list to suggest recommendations.
+
+Reinforcement:
+Reinforcement Machine learning is primarily concerned with boosting efficiency.
+
+FUTURE OF MACHINE LEARNING:
+The American software engineer and the current lead of the GOOGLE AI, Jeff Dean in one of his Keynote speech says that on the advancements of computer vision and language models and how ML will progress towards the future from the perspective of model building.
+He also quoted that “The progress we’ve made from 26% error in 2011 to 3% error in 2016 is hugely impactful. The way I like to think is, computers have now evolved eyes that work.”
+So similar to my Granny next query , people might be wondering about the future of ML which I have quoted here as Jeff Dean’s words. Jeff believes the future of ML lies in a great big model, a multi-functioning model that can do plenty of things. This uber model will eliminate the need to create models that do specific tasks and instead train this one large model with different pieces of expertise.
+So the vastness of use of Machine learning is unfathomable and is a life changing technology without any doubt. 
+ 
+
+I tried the best to my capacity to explain the Machine Learning in a brief words. If necessary , the vast internet is always there for you to search about this topic.
+
+
+THANK YOU.
+
+
+
+       
+
+
+
+
+                
